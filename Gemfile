@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 gem 'ruby-saml', '~> 1.7.0'
 
 gem 'byebug'
+gem 'pry-rails'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.5'
